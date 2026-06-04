@@ -7,3 +7,4 @@ Full image      Zoom-in patches       Zoom-in patches       Full image
 │        │      │ ② patch B  │       │ ② patch B  │        │        │
 └────────┘      └────────────┘       └────────────┘        └────────┘
 add
+1
