@@ -9,3 +9,6 @@ Full image      Zoom-in patches       Zoom-in patches       Full image
 add
 its a test
 11
+Which airport system are you referring to? (check-in, baggage handling, security, ground transport, etc.)
+Is this for a class assignment, presentation, or something else?
+Any specific improvements you have in mind, or do you want me to come up with ideas?
